@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"STAT",
+				"STATIC_ROOT"
+			],
+			[
+				"dbConnect",
+				"dbConnection"
+			],
+			[
+				"db",
+				"dbConnected"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cam",
+				"cambiarPass"
+			],
+			[
+				"edad",
+				"edad"
+			],
+			[
+				"class",
+				"class_alias"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"arra",
+				"array"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: php",
+				"Snippet: PHP: echo '...'"
+			],
+			[
+				"Snippet",
+				"Snippet: PHP: Script start tag"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: a",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 319.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alejandro/djangogirls"
+	],
+	"file_history":
+	[
+		"/C/Users/Alejandro/Desktop/python_intro.py",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/xampp/htconfig/dbconfig.php",
+		"/C/xampp/htdocs/dbWIP/selectJoinWHERE_Demo.php",
+		"/C/xampp/htdocs/initialise/tPersonInitialise.php",
+		"/C/xampp/htdocs/initialise/tCompanyInitialise.php",
+		"/C/xampp/htdocs/initialise/csvCompany",
+		"/C/xampp/htdocs/initialise/csvPerson",
+		"/C/xampp/htdocs/php training/phpTraining 0104/Useful Stuff/Styles/Arial, red.txt",
+		"/C/xampp/htdocs/DEMO/insertPersonData.php",
+		"/C/xampp/htdocs/DEMO/arrayNumeric.php",
+		"/C/xampp/htdocs/DEMO/arrayAutoindex.php",
+		"/C/xampp/htdocs/DBtest/dbconfig.php",
+		"/C/xampp/htdocs/DBtest/deletepeople21.php",
+		"/C/xampp/htdocs/DBtest/peopletodelete.php",
+		"/C/xampp/htdocs/DBtest/deletepeople01.php",
+		"/C/xampp/htdocs/DBtest/updatecompanies01.php",
+		"/C/xampp/htdocs/DBtest/insertcompanies01.php",
+		"/C/xampp/htdocs/DBtest/alphacrmTableCreate.php",
+		"/C/xampp/htdocs/DBtest/test.php",
+		"/C/xampp/htdocs/DBtest/createDBalphacrm.php",
+		"/C/xampp/htdocs/dropDBalphacrm.php",
+		"/C/xampp/htdocs/php training/phpTraining/Examplets/DbConnection/Test DB Connection.txt",
+		"/C/xampp/htdocs/php training/phpTraining/SQL/dbConnections/dbconfig.php",
+		"/C/xampp/htdocs/php training/phpTraining/Basics/php Tags/php Tags Simple.txt",
+		"/C/xampp/htdocs/php training/phpTraining/Project/connectDB.txt",
+		"/C/xampp/htdocs/php training/phpTraining/Project/index content 1.0.php",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/C/xampp/htdocs/prueba_laravel/config/app.php",
+		"/C/xampp/htdocs/prueba_laravel/resources/views/notes.blade.php",
+		"/C/xampp/htdocs/prueba_laravel/composer.json",
+		"/C/xampp/htdocs/prueba_laravel/app/Http/routes.php",
+		"/C/laragon/www/prueba/app/Http/routes.php",
+		"/C/xampp/htdocs/prueba_laravel/app/Note.php",
+		"/C/xampp/htdocs/prueba_laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/prueba_laravel/.env",
+		"/C/xampp/htdocs/prueba_laravel/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/C/xampp/htdocs/prueba_laravel/database/migrations/2016_05_13_224913_create_notes_table.php",
+		"/C/xampp/htdocs/prueba_laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/prueba_laravel/tests/NoteTest.php",
+		"/C/xampp/htdocs/prueba_laravel/database/migrations/2016_05_13_224324_create_notes_table.php",
+		"/C/xampp/htdocs/prueba_laravel/resources/views/errors/503.blade.php",
+		"/C/xampp/htdocs/prueba_laravel/tests/ExampleTest.php",
+		"/C/xampp/htdocs/prueba_laravel/bootstrap/autoload.php",
+		"/C/xampp/htdocs/prueba_laravel/bootstrap/app.php",
+		"/C/xampp/htdocs/prueba_laravel/app/Events/Event.php",
+		"/C/xampp/htdocs/freelancer/css/freelancer.css",
+		"/C/xampp/htdocs/freelancer/index.html",
+		"/C/xampp/htdocs/freelancer/js/freelancer.js",
+		"/C/xampp/htdocs/laravel-master/server.php",
+		"/C/xampp/htdocs/laravel-master/public/index.php",
+		"/C/xampp/htdocs/prueba_laravel/public/index.php",
+		"/C/xampp/htdocs/advanced/backend/views/personas/index.php",
+		"/C/xampp/htdocs/advanced/backend/views/layouts/main.php",
+		"/C/xampp/htdocs/advanced/backend/web/css/site.css",
+		"/C/xampp/htdocs/advanced/backend/views/site/index.php",
+		"/C/xampp/htdocs/advanced/common/config/main-local.php",
+		"/C/xampp/htdocs/advanced/backend/controllers/TrabajadoresCargosController.php",
+		"/C/xampp/htdocs/advanced/backend/models/TrabajadoresCargos.php",
+		"/C/xampp/htdocs/advanced/backend/config/main.php",
+		"/C/xampp/htdocs/advanced/console/config/main.php",
+		"/C/xampp/htdocs/advanced/backend/controllers/TrabajadoresController.php",
+		"/C/xampp/htdocs/advanced/backend/models/TrabajadoresSearch.php",
+		"/C/xampp/htdocs/advanced/console/migrations/m130524_201442_init.php",
+		"/C/xampp/htdocs/advanced/composer.json",
+		"/C/xampp/htdocs/advanced/backend/views/trabajadores/index.php",
+		"/C/xampp/htdocs/advanced/backend/views/trabajadores/view.php",
+		"/C/xampp/htdocs/yii2/basic/composer.json",
+		"/C/xampp/htdocs/yii2/basic/controllers/TrabajadoresController.php",
+		"/C/xampp/htdocs/yii2/basic/controllers/CargosController.php",
+		"/C/xampp/htdocs/yii2/basic/views/trabajadores/view.php",
+		"/C/xampp/htdocs/yii2/basic/models/TrabajadoresSearch.php",
+		"/C/xampp/htdocs/yii2/basic/views/cargos/view.php",
+		"/C/xampp/htdocs/yii2/basic/views/trabajadores/update.php",
+		"/C/xampp/htdocs/yii2/basic/views/cargos/update.php",
+		"/C/xampp/htdocs/yii2/basic/views/cargos/index.php",
+		"/C/xampp/htdocs/yii2/basic/views/trabajadores/index.php",
+		"/C/xampp/htdocs/yii2/basic/views/trabajadores/create.php",
+		"/C/xampp/htdocs/yii2/basic/views/cargos/create.php",
+		"/C/xampp/htdocs/yii2/basic/config/web.php",
+		"/C/xampp/htdocs/yii2/basic/models/Trabajadores.php",
+		"/C/xampp/htdocs/yii2/basic/views/cargos/_search.php",
+		"/C/xampp/htdocs/yii2/basic/views/trabajadores/_search.php",
+		"/C/xampp/htdocs/yii2/basic/views/cargos/_form.php",
+		"/C/xampp/htdocs/yii2/basic/views/trabajadores/_form.php",
+		"/C/xampp/htdocs/yii2/basic/README.md",
+		"/C/xampp/htdocs/yii2/basic/config/db.php",
+		"/C/xampp/htdocs/yii2/basic/views/layouts/main.php",
+		"/C/xampp/htdocs/yii2/basic/views/site/index.php",
+		"/C/xampp/htdocs/yii2/basic/vendor/yiisoft/yii2/db/Connection.php",
+		"/C/xampp/htdocs/yii/facilito/protected/components/Controller.php",
+		"/C/xampp/htdocs/yii/facilito/protected/views/hola/index.php",
+		"/C/xampp/htdocs/yii/facilito/protected/config/main.php",
+		"/C/xampp/htdocs/yii/facilito/protected/.htaccess",
+		"/C/xampp/htdocs/yii/facilito/protected/controllers/HolaController.php",
+		"/C/xampp/htdocs/yii/facilito/index.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/yii/facilito/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/yii/facilito/.htacces",
+		"/C/xampp/htdocs/yii/facilito/protected/config/console.php",
+		"/C/xampp/htdocs/yii/facilito/protected/controllers/SiteController.php",
+		"/C/xampp/htdocs/Objetos/index.php",
+		"/C/xampp/htdocs/yii/requirements.php",
+		"/C/Users/Alejandro/AppData/Local/Temp/Rar$DIa0.190/index.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/phpMyAdmin/config.sample.inc.php",
+		"/C/xampp/php/CompatInfo.php",
+		"/C/AppServ-Backup-2016-03-08/MySQL/scripts/resetpwd.php",
+		"/C/AppServ-Backup-2016-03-08/www/phpMyAdmin/server_databases.php",
+		"/C/AppServ-Backup-2016-03-08/www/index.php",
+		"/C/AppServ/www/phpMyAdmin/config.inc.php",
+		"/C/AppServ/www/phpMyAdmin/config.sample.inc.php",
+		"/C/Users/Alejandro/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\prueba_laravel"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"personData",
+			"Connector",
+			"Connector}",
+			"page-scro",
+			"red",
+			"page scro",
+			"portfolio",
+			"portfo",
+			"scroll",
+			"start",
+			"star-li",
+			"start",
+			"lead",
+			"congrat",
+			"not",
+			"<?",
+			"my",
+			"root",
+			"url",
+			"extension_dir = “ext”",
+			"extension=php_mysql",
+			"extension_dir = “ext”",
+			"extension=php_mysql.dll",
+			"extensio"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
