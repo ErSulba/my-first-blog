@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'AG'
+TIME_ZONE = 'America/Antigua'
 
 USE_I18N = True
 
